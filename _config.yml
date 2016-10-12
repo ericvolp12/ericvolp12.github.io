@@ -31,7 +31,6 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-markdown:    redcarpet
 port:    4000
 host:    192.168.2.78
 
