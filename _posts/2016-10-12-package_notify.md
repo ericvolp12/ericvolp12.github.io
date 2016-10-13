@@ -211,13 +211,13 @@ Below, I've provided a small photo set of the end result for your viewing pleasu
 
 *Note: I will be working on better galleries using some cool features of Jekyll and yaml/markdown but until then please bear with the blind insertion of images.*
 
-![Package Notipi](/pictures/2016-10-12/1.jpg)
-![Package Notipi](/pictures/2016-10-12/2.jpg)
-![Package Notipi](/pictures/2016-10-12/3.jpg)
-![Package Notipi](/pictures/2016-10-12/4.jpg)
-![Package Notipi](/pictures/2016-10-12/5.jpg)
-![Package Notipi](/pictures/2016-10-12/6.jpg)
-![Package Notipi](/pictures/2016-10-12/7.jpg)
+![Package Notipi](/images/2016-10-12/1.jpg)
+![Package Notipi](/images/2016-10-12/2.jpg)
+![Package Notipi](/images/2016-10-12/3.jpg)
+![Package Notipi](/images/2016-10-12/4.jpg)
+![Package Notipi](/images/2016-10-12/5.jpg)
+![Package Notipi](/images/2016-10-12/6.jpg)
+![Package Notipi](/images/2016-10-12/7.jpg)
 
 
 
