@@ -219,7 +219,7 @@ Again if you want to attempt this yourself, please reference [Popoklopsi's blog 
 
 Below, I've provided a small photo set of the end result for your viewing pleasure.
 
-*Note: I will be working on better galleries using some cool features of Jekyll and yaml/markdown but until then please bear with the blind insertion of public/images.*
+*Note: I will be working on better galleries using some cool features of Jekyll and yaml/markdown but until then please bear with the blind insertion of images.*
 
 If you'd like to view the full resolution images, check here: https://goo.gl/photos/z7Kbuemx8AATqjpe8 . I downscaled and compressed them so the blog page remains under 1 MB.
 
