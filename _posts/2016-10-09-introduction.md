@@ -122,4 +122,5 @@ Maybe I'll pick up a Pixel in the next few months.
 Thanks for reading.
 
 ---
+
 ### Eric V
