@@ -74,6 +74,7 @@ For a LED strip, the proportion of the pulse width to the duty cycle length is e
 By experimenting with some different RGB values, I've found nice hues for my previously specified severity levels.
 
 My python code that describes the hues can be seen here in `package_notify.py`
+
 ```python
 import pigpio
 
@@ -177,6 +178,7 @@ class TestHTTPServer_RequestHandler(BaseHTTPRequestHandler):
         self.wfile.write(bytes(message, "utf8"))
         return
 ```
+
 Essentially, I read the path of the request looking for 3 possible paths: `released_package`, `new_package`, and `/` or an empty path.
 
 A `GET` request to either of the first two paths will trigger an increment or decrement to the `pending_package_count` tally and call `set_color` accordingly.
@@ -231,4 +233,5 @@ Update from the day of items arriving: The transistors I got don't seem to be wo
 That's all folks, thanks for reading.
 
 ---
+
 ### Eric V
