@@ -221,7 +221,7 @@ Below, I've provided a small photo set of the end result for your viewing pleasu
 
 *Note: I will be working on better galleries using some cool features of Jekyll and yaml/markdown but until then please bear with the blind insertion of images.*
 
-If you'd like to view the full resolution images, check here: https://goo.gl/photos/z7Kbuemx8AATqjpe8 . I downscaled and compressed them so the blog page remains under 1 MB.
+If you'd like to view the full resolution images, check here: [Google Photos Album](https://goo.gl/photos/z7Kbuemx8AATqjpe8) . I downscaled and compressed them so the blog page remains under 1 MB.
 
 ![Package Notipi](/public/images/2016-10-12/1.jpg)
 ![Package Notipi](/public/images/2016-10-12/2.jpg)
