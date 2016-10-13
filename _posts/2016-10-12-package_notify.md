@@ -68,7 +68,7 @@ For example, a PWM value of 255 translates to a pulse that is constantly on thro
 
 For a LED strip, the proportion of the pulse width to the duty cycle length is equal to the brightness in that channel. Meaning a PWM value of 255 on the Green channel and a PWM value of 127 on the BLue channel leads to a light green hue.
 
-![Light Green Hue](/images/2016-10-11/light_green.png)
+![Light Green Hue](/public/images/2016-10-11/light_green.png)
 
 By experimenting with some different RGB values, I've found nice hues for my previously specified severity levels.
 
@@ -209,15 +209,15 @@ Again if you want to attempt this yourself, please reference [Popoklopsi's blog 
 
 Below, I've provided a small photo set of the end result for your viewing pleasure.
 
-*Note: I will be working on better galleries using some cool features of Jekyll and yaml/markdown but until then please bear with the blind insertion of images.*
+*Note: I will be working on better galleries using some cool features of Jekyll and yaml/markdown but until then please bear with the blind insertion of public/images.*
 
-![Package Notipi](/images/2016-10-12/1.jpg)
-![Package Notipi](/images/2016-10-12/2.jpg)
-![Package Notipi](/images/2016-10-12/3.jpg)
-![Package Notipi](/images/2016-10-12/4.jpg)
-![Package Notipi](/images/2016-10-12/5.jpg)
-![Package Notipi](/images/2016-10-12/6.jpg)
-![Package Notipi](/images/2016-10-12/7.jpg)
+![Package Notipi](/public/images/2016-10-12/1.jpg)
+![Package Notipi](/public/images/2016-10-12/2.jpg)
+![Package Notipi](/public/images/2016-10-12/3.jpg)
+![Package Notipi](/public/images/2016-10-12/4.jpg)
+![Package Notipi](/public/images/2016-10-12/5.jpg)
+![Package Notipi](/public/images/2016-10-12/6.jpg)
+![Package Notipi](/public/images/2016-10-12/7.jpg)
 
 
 
