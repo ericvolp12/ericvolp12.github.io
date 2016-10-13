@@ -2,6 +2,7 @@
 layout: post
 title: Project 1: Package Notipi
 ---
+
 ## I'll start this post off by apologizing for the title
 [On GitHub](https://github.com/ericvolp12/package_notify), I called the project `package_notify`, but I felt a pun was a great way to start off the second post on my blog, as well as hurt my search index, so welcome to **Project 1: Package Notipi**.
 
@@ -68,7 +69,7 @@ For example, a PWM value of 255 translates to a pulse that is constantly on thro
 
 For a LED strip, the proportion of the pulse width to the duty cycle length is equal to the brightness in that channel. Meaning a PWM value of 255 on the Green channel and a PWM value of 127 on the BLue channel leads to a light green hue.
 
-![Light Green Hue](/public/images/2016-10-11/light_green.png)
+![Light Green Hue](/public/images/2016-10-12/light_green.png)
 
 By experimenting with some different RGB values, I've found nice hues for my previously specified severity levels.
 
