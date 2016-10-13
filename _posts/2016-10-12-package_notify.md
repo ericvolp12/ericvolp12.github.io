@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 1\: Package Notipi
+title: "Project 1: Package Notipi"
 ---
 
 ## I'll start this post off by apologizing for the title
@@ -145,7 +145,9 @@ class TestHTTPServer_RequestHandler(BaseHTTPRequestHandler):
             print("Package was released!\n")
             response_code = 200
             pending_package_count -= 1
-            message = "Package was released!<br>Total pending packages: " + str(pending_package_count)
+            message = 
+                "Package was released!<br>Total pending packages: " 
+                + str(pending_package_count)
             if pending_package_count == 1:
                 set_color("red")
             elif pending_package_count == 2:
@@ -161,7 +163,9 @@ class TestHTTPServer_RequestHandler(BaseHTTPRequestHandler):
             print("New package was received!\n")
             response_code = 200
             pending_package_count += 1
-            message = "New package was received!<br>Total pending packages: " + str(pending_package_count)
+            message = 
+                "New package was received!<br>Total pending packages: " 
+                + str(pending_package_count)
             if pending_package_count == 1:
                 set_color("red")
             elif pending_package_count == 2:
