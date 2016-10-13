@@ -76,7 +76,7 @@ By experimenting with some different RGB values, I've found nice hues for my pre
 
 My python code that describes the hues can be seen here in `package_notify.py`
 
-* Hey, future Eric here, if you're wondering why the colors below don't match up to what I may have said, it's because the colors I tried didn't show up very well and I had to change to more contrasting colors, and even then, they didn't work too well. *
+*Hey, future Eric here, if you're wondering why the colors below don't match up to what I may have said, it's because the colors I tried didn't show up very well and I had to change to more contrasting colors, and even then, they didn't work too well.*
 
 ```python
 import pigpio
