@@ -203,17 +203,17 @@ I created 2 IFTTT actions, one for new packages and one for released packages, t
 
 ### The Hardware
 
-The hardware implementation for this project was taken from [this blog post by Popoklopsi](http://popoklopsi.github.io/RaspberryPi-LedStrip/).
+The hardware implementation for this project was taken from [this blog post by Popoklopsi](https://popoklopsi.github.io/RaspberryPi-LedStrip/).
 
 I will provide a simple diagram Popoklopsi offered on his blog post.
 
 *Note: This image is hosted by Popoklopsi and is not my own creation, if he/she desires for me to take down this link to their image, I will do so gladly.*
 
-![Piagram](http://popoklopsi.github.io/RaspberryPi-LedStrip/img/rgb/power_3.png)
+![Piagram](https://popoklopsi.github.io/RaspberryPi-LedStrip/img/rgb/power_3.png)
 
 The hardware setup is simple and consists of 3 MOSFETs, a bread board, the Pi, a DC power supply, and the RGB LED strip.
 
-Again if you want to attempt this yourself, please reference [Popoklopsi's blog post](http://popoklopsi.github.io/RaspberryPi-LedStrip/).
+Again if you want to attempt this yourself, please reference [Popoklopsi's blog post](https://popoklopsi.github.io/RaspberryPi-LedStrip/).
 
 ## *What does the end result look like?*
 
