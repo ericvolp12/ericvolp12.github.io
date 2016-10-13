@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 1: Package Notipi
+title: Project 1\: Package Notipi
 ---
 
 ## I'll start this post off by apologizing for the title
