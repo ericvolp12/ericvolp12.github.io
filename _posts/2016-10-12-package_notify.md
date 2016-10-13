@@ -42,6 +42,7 @@ Package Notipi is an application running on my Raspberry Pi 3, which is connecte
 The idea was to come up with a notification system that can be seen whilst walking from the front desk to my room, as well as from inside my room.
 
 The system has a few levels of severity.
+
 * 0 Pending Packages - The LEDs are dark.
 * 1 Pending Package - The LEDs are lit yellow.
 * 2 Pending Packages - The LEDs are lit orange.
