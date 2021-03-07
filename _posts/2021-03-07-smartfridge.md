@@ -221,7 +221,7 @@ const dutyLoop = function(){
 
 ## Conclusion
 
-So, we now have a system that detects when the metric (freezer temperature) is over some threshold for a specified period of time, effects some remediation step to bring the metric back under the threshold, and then cools down before trying to remediate again.
+So, we now have a system that detects when the metric is over some threshold for a specified period of time, effects some remediation step to bring the metric back under the threshold, and then cools down before trying to remediate again.
 
 Or, in normal terms: if the freezer is getting too warm, we turn the fridge off and wait 15 minutes and turn it back on, but we don't try this more than once in an hour to let the compressor do its work.
 
