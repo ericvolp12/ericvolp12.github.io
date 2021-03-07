@@ -17,7 +17,7 @@ On the list of essential appliances in a home, at the top you'll find a refriger
 
 In my apartment, constructed back in 2003, most of the appliances are holdovers from back then, meaning at this point, my fridge is old enough to vote. While that's a fun and quirky fact, somewhat less fun and less quirky is that my fridge is broken. I have somewhat diagnosed that the problem lies in the connection between the temperature control unit and the compressor. The compressor works fine, but every few days the fridge will decide it doesn't need the compressor anymore and just won't tell it to turn on.
 
-I learned that my fridge was broken by opening the top-portion's freezer and looking at a puddle in my ice bin. While this was a useful signal to notice something was wrong with my fridge, I didn't realize what was wrong or how I could fix it. After conversation with my landlord he said "Oh yes the previous tenant had an issue and whenever that happened they cut power to the fridge and waited about 15 minutes and then turned it back on".
+I learned that my fridge was broken by opening the top-portion's freezer and looking at a puddle in my ice bin. While this was a useful signal to notice something was wrong with my fridge, I didn't realize what was wrong or how I could fix it. Chatting with my landlord, he said, "Oh yes the previous tenant had an issue and whenever that happened, they would cut power to the fridge and wait about 15 minutes and then turn it back on".
 
 Well, at least now I had a remediation step to take, so I gave it a shot and, don't you know, it worked perfectly! Problem solved!
 
