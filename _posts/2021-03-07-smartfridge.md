@@ -5,7 +5,7 @@ title: "How SREs Solve Problems at Home (Making my Dumb Fridge Smart)"
 
 ## Pretext
 
-This is a story partially about laziness but not the weird kind of laziness where, instead of doing the thing, you decide to do something completely different and more convoluted that ends up taking way more time because you can't be bothered to do the thing.
+This is a story partially about laziness but the weird kind of laziness where, instead of doing the thing, you decide to do something completely different and more convoluted that ends up taking way more time because you can't be bothered to do the thing.
 
 In this instance, the thing is fixing my fridge (though I would argue it shouldn't be my responsibility to do that, I rent and my landlord should have fixed this when it became an issue months ago but oh well).
 
