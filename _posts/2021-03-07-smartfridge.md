@@ -34,7 +34,7 @@ I picked up the cheap bluetooth thermometer [here](https://www.amazon.com/gp/pro
 
 As you can see, the temperature sits somewhere from 2.5F to 12F regularly and occasionally spikes during weird events. Clearly in the image shown the spike was halted by the system I'm about to build in this blog.
 
-So we have a metric and graph viewable in an app. Let’s grab some random FOSS project that can talk to these weird thermometers over bluetooth and slap in in a Raspberry Pi.
+So we have a metric and graph viewable in an app. Let’s grab some random FOSS project that can talk to these weird thermometers over bluetooth and slap it in a Raspberry Pi.
 
 ## Gathering Data
 
