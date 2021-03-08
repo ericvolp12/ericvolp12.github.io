@@ -11,7 +11,7 @@ In this instance, _the thing_ is fixing my fridge (though I would argue it shoul
 
 ## My Fridge is Broken
 
-For the record my fridge, being manufactured in 2003, is old enough to vote.
+My fridge, being manufactured in 2003, is old enough to vote.
 
 I learned that my fridge was broken by opening the attached freezer on top and looking at a puddle in my ice bin. While this was a useful signal to notice something was wrong with my fridge, I didn’t know what was wrong or how I could fix it. Chatting with my landlord, he mentioned "the previous tenant had a similar issue and whenever it happened, they would cut power to the fridge and wait about 15 minutes and then turn it back on".
 
