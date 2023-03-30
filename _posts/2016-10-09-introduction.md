@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction
+excerpt: "An old introduction to my blog from back when I started it, saved for posterity, sorry..."
 ---
 
 ```python
@@ -73,7 +74,7 @@ What's new in technology?
 
 I guess a lot of phones have been coming out lately, so let's talk about that.
 
-If you've had your head burried in the RSS feed of The Verge or Ars Technica or any other tech news publication these past few weeks, you'll probably know that Apple and Google have released some interesting phones recently.
+If you've had your head buried in the RSS feed of The Verge or Ars Technica or any other tech news publication these past few weeks, you'll probably know that Apple and Google have released some interesting phones recently.
 
 I tend to use "interesting" as a word to say nothing of note about a topic when I don't just want to say the topic.
 

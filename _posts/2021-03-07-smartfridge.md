@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How SREs Solve Problems at Home (Making my Dumb Fridge Smart)"
+excerpt: "This is a story partially about laziness but the weird kind of laziness where, instead of doing the thing, you decide to do something completely different and more convoluted that ends up taking way more time because you can’t be bothered to do the thing."
 ---
 
 ## Pretext

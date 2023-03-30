@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Eric V's Blog
 tagline:             A space where I rant about computers
 url:                 https://blog.ericv.me
-paginate:            1
+paginate:            10
 baseurl:             ""
 
 # Assets

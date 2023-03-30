@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Project 2: Floatplane Club"
+excerpt: "The Floatplane Club was a project I started with Catboiler (AJ) for Linus Media Group to restore the services provided by Vessel in a completely new form for their own users."
 ---
 
 ## Hey, it's been a while...
@@ -38,7 +39,7 @@ The Floatplane Club was a project founded by Linus of Linus Tech Tips to restore
 
 The first incarnation of Floatplane was a simple in-forum signup with a monthly payment and a direct download of DRM free videos for valid users.
 
-The promised future of Floatplane club was to bring back a service like Vesssel was in its heyday, a beautiful streaming service with a variety of quality settings, great features, friendly communities, and early, ad free, releases.
+The promised future of Floatplane club was to bring back a service like Vessel was in its heyday, a beautiful streaming service with a variety of quality settings, great features, friendly communities, and early, ad free, releases.
 
 Well, I just so happened to make it onto the team that would bring Floatplane to the masses in a few short weeks.
 
@@ -54,7 +55,7 @@ I was tasked with building most of the front-end implementation, then with the e
 
 While I'd love to go into more detail about how the CMS works and how the Transcoding drivers function right now, I think it'd be best to hold my tongue until the system has proven itself and I've had a few hours of sleep.
 
-Aaaaaanyhow, as it currently rests, the system is up and running. Members of the Floatplane Club on LinusTechTips.com are avaible to stream their glorious early-release, ad free content without too much trouble.
+Aaaaaanyhow, as it currently rests, the system is up and running. Members of the Floatplane Club on LinusTechTips.com are available to stream their glorious early-release, ad free content without too much trouble.
 
 The future for the platform is so bright I've gotta wear my Gunnars...
 

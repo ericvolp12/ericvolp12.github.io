@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Tale of Two Technologies: Why Large Language Models are the Future and the Metaverse Isn't"
+excerpt: 'A closer examination of these contrasting trajectories reveals how the research-driven innovation behind LLMs can triumph over consumerism-driven hype of the Metaverse that puts the cart of "monetizable experiences" before the horse of technology capable of sustaining them.'
 ---
 
 ## The Beginning

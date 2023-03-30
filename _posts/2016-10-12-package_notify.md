@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Project 1: Package Notipi"
+excerpt: "Package Notipi is a neat bit of software/hardware I built to alert me when a new package arrives for me at my dorm. The school provides a need system (called \"Housenet\") that alerts students via email when a package arrives for them. The student then travels to the front desk of their dorm and signs the package out, verifying that they've received it."
 ---
 
 ## I'll start this post off by apologizing for the title
