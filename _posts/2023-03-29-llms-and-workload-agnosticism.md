@@ -6,7 +6,7 @@ excerpt: "I think we’ll soon find that LLMs have strong parallels with Cloud C
 
 As discussed in my [previous post]({% post_url 2023-03-26-metaverse-vs-llms %}), LLMs such as OpenAI’s ChatGPT and GPT-4, Google’s Bard, and Meta’s LLaMA have risen seemingly out of nowhere, poised to disrupt the future of computing.
 
-Cloud Compute changed the landscape drastically when it was introduced by Amazon in the mid 2000's, lowering the barriers to entry for new software-based businesses drastically by simplifying hosting and removing the need to worry about physical hardware.
+Cloud Compute changed the landscape drastically when it was introduced by Amazon in the mid 2000's, lowering the barriers to entry for new software-based businesses by simplifying hosting and removing the need to worry about physical hardware.
 
 The introduction of Cloud Compute allowed an entire genre of brand new businesses and projects to grow and thrive in an environment where they never could have before.
 
